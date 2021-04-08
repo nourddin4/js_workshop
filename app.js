@@ -1,4 +1,3 @@
-// Votre script JS
 
 var x=0;
 document.getElementById("value").innerText=x;
